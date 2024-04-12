@@ -1,0 +1,20 @@
+.header {
+    font-size: 100px;
+    
+}
+
+.banana {
+    font-size: 50px;
+    font-family: "Times New Roman";
+}
+
+.pancakes {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.spaghetti {
+    color: aqua;
+    font-weight: bold;
+    font-size: 30px;
+}
