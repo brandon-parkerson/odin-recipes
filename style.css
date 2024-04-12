@@ -1,20 +1,35 @@
 .header {
     font-size: 100px;
-    
+    margin: auto;
+    text-align: center;
+    background-color: red;
 }
 
 .banana {
     font-size: 50px;
     font-family: "Times New Roman";
+    margin: 10px;
+    text-align: center;
+    background-color: lightblue;
+    border-color: black;
+    border: solid;
 }
 
 .pancakes {
     font-size: 50px;
-    font-family: sans-serif;
+    font-family: "Times New Roman";
+    margin: 10px;
+    text-align: center;
+    border: solid;
+    background-color: lightsalmon;
 }
 
 .spaghetti {
-    color: aqua;
-    font-weight: bold;
-    font-size: 30px;
+    
+    font-family: "Times New Roman";
+    font-size: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: lightskyblue;
+    border: solid;
 }
